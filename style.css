@@ -42,6 +42,10 @@ header {
   padding: 30px 40px;
 }
 
+#slide {
+  width: 100%;
+}
+
 .card-header::after {
   content: " ";
   display: block;
@@ -97,7 +101,7 @@ button[disabled] {
   float: right;
 }
 
-#password {
+#yourPassword {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
